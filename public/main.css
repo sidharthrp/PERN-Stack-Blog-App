@@ -1,0 +1,23 @@
+body{
+    background-color: #ECE3CE;
+    margin-top: 0px;
+    margin-left: 5%;
+    margin-right: 5%;
+    font-family: "Handlee", cursive;
+    font-weight: 800;
+    font-style: normal;
+  }
+  
+  h1{
+    text-align: left;
+    font-size: 30px;
+    
+    color: #739072;
+  }
+  
+  .flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  

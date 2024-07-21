@@ -1,0 +1,48 @@
+.flex{
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 1.5%;
+    padding-bottom: 1%;
+    position: fixed;
+    background-color: #111;
+    width: 90%;
+    height: 50px;
+  }
+
+.buttons{
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width:300px;
+}
+
+.nav-heading{
+    font-size: 30px;
+    color: #739072;
+    text-decoration: none;
+ 
+}
+
+.nav-heading:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+    color:white 
+}
+
+.nav{
+    text-decoration: none;
+    color: #739072;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
+.nav:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+    color:white
+}
+

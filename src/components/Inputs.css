@@ -1,0 +1,47 @@
+.inputs{
+    position: relative;
+    margin-top: 20px;
+    width: 75%
+}
+
+.input{
+    font-family: "Handlee", cursive;
+    font-size: 15px;
+    color: white;
+    padding: 10px;
+    margin: 10px 0px 10px 0px;
+    border: 0;
+    background-color: transparent;
+    border-bottom: solid 2px #739072;
+    width: 100%;
+}
+
+.blog-title{
+    width:50%; 
+    margin-right: 16%;
+}
+
+.blog-author{
+    width:30%;
+}
+
+.submit-btn{
+    margin-left: 40%;
+    margin-top: 20px;
+    font-weight: bold;
+    font-family: "Handlee", cursive;
+    border: 0;
+    background-color: transparent;
+    font-size: 20px;
+    color: #739072;
+}
+
+.submit-btn:hover{
+    color: white;
+    cursor: pointer;
+    transform: scale(1.1);
+}
+
+.blog-title{
+    color: whitesmoke;
+}

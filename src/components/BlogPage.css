@@ -1,0 +1,42 @@
+.blog-page-div{
+    color: white;
+}
+
+.edit-btn{
+    color:rgb(22, 108, 189);
+    margin: 0.5%;
+}
+
+.delete-btn{
+    color:rgb(240, 43, 43);
+    margin: 0.5%;
+}
+
+.delete-btn:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+    color: #A91D3A;
+}
+
+.edit-btn:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+    color: purple;
+}
+
+.title{
+    font-size: 50px;
+   
+}
+
+.same-line{
+    display: flex;
+    justify-content: space-between;
+}
+.author{
+    font-size: 20px;
+}
+
+.date{
+    text-align: right;
+}
